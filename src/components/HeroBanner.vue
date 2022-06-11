@@ -12,7 +12,7 @@
 </template>
 
 
-<style lang="scss" scoped>
+<style scoped>
 .hero-banner {
     min-height: 100vh;
     height: 100%;
